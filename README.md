@@ -1,5 +1,3 @@
-### ✨
-
 <h1 align="left">✨ Hi, I'm Cyrus</h1>
 <h3 align="left">Developing creative & interactive web experiences</h3>
 <p align="left">
